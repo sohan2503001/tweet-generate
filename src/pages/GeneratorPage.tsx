@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { toast } from 'sonner';
-import { TweetCard } from '../components/tweetcard';
+import { TweetCard } from '../components/Tweetcard';
 import { generateTweetAndPredict } from '../utils/api';
 import type { Tweet } from '../types';
 import { Wand2 } from '../components/icons';

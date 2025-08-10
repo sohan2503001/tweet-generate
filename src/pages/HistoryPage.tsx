@@ -1,7 +1,7 @@
 // src/pages/HistoryPage.tsx
 import React from 'react';
 import { motion } from 'framer-motion';
-import { TweetCard } from '../components/tweetcard';
+import { TweetCard } from '../components/Tweetcard';
 import type { Tweet } from '../types';
 
 interface HistoryPageProps {
