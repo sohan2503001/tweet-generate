@@ -1,6 +1,6 @@
 // src/App.tsx
 import React, { useCallback, useEffect } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { AnimatePresence } from 'framer-motion';
 import { Toaster, toast } from 'sonner';
 
 import { useLocalStorage } from './hooks/useLocalStorage';
