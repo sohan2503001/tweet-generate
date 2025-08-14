@@ -1,4 +1,4 @@
-// src/App.tsx
+// src/App
 import { useCallback, useEffect } from 'react';
 import { AnimatePresence } from 'framer-motion';
 import { Toaster, toast } from 'sonner';
