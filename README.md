@@ -8,7 +8,7 @@ Generate tweets and predict their engagement using AI!
 - **Interactive UI** for testing different inputs
 
 ## 🔗 Try it live
-**[Live Demo](your-deployment-url)**
+**[Live Demo]([your-deployment-url](https://auto-tweet-generator.netlify.app/))**
 
 ## 🛠️ Tech Stack
 - Python
